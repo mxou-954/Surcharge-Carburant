@@ -1,0 +1,2201 @@
+{
+ "updated_at": "2026-10-14T18:23:54",
+ "results": [
+  {
+   "id": "brent",
+   "name": "Brent",
+   "kind": "index",
+   "freq": "temps réel",
+   "url": "https://prixdubaril.com/",
+   "ok": true,
+   "series": [
+    {
+     "label": "Brent ($/baril)",
+     "unit": "$",
+     "current": {
+      "period": "Mercredi 14 octobre 2026 · 18:23",
+      "start": "2026-10-14",
+      "end": "2026-10-14",
+      "value": 106.3,
+      "unit": "$"
+     },
+     "next": null,
+     "history": []
+    },
+    {
+     "label": "Brent (€/baril)",
+     "unit": "€",
+     "current": {
+      "period": "Mercredi 14 octobre 2026 · 18:23",
+      "start": "2026-10-14",
+      "end": "2026-10-14",
+      "value": 95.64,
+      "unit": "€"
+     },
+     "next": null,
+     "history": []
+    },
+    {
+     "label": "WTI ($/baril)",
+     "unit": "$",
+     "current": {
+      "period": "Mercredi 14 octobre 2026 · 18:23",
+      "start": "2026-10-14",
+      "end": "2026-10-14",
+      "value": 95.39,
+      "unit": "$"
+     },
+     "next": null,
+     "history": []
+    }
+   ],
+   "info": {
+    "variation": "+0,58 %"
+   },
+   "error": null,
+   "duration_s": 10.0,
+   "scraped_at": "2026-10-14T18:23:54"
+  },
+  {
+   "id": "dhl",
+   "name": "DHL Express",
+   "kind": "express",
+   "freq": "hebdo",
+   "url": "https://mydhl.express.dhl/fr/fr/ship/surcharges.html#/fuel_surcharge",
+   "ok": true,
+   "series": [
+    {
+     "label": "Time Definite (national & international)",
+     "unit": "%",
+     "current": {
+      "period": "Octobre 12-18, 2026",
+      "start": "2026-10-12",
+      "end": "2026-10-18",
+      "value": 49,
+      "unit": "%"
+     },
+     "next": {
+      "period": "Octobre 19-25, 2026",
+      "start": "2026-10-19",
+      "end": "2026-10-25",
+      "value": 49.75,
+      "unit": "%"
+     },
+     "history": [
+      {
+       "period": "Septembre 21-27, 2026",
+       "start": "2026-09-21",
+       "end": "2026-09-27",
+       "value": 45,
+       "unit": "%"
+      },
+      {
+       "period": "Septembre 28-Octobre 4, 2026",
+       "start": "2026-09-28",
+       "end": "2026-10-04",
+       "value": 46.25,
+       "unit": "%"
+      },
+      {
+       "period": "Octobre 5-11, 2026",
+       "start": "2026-10-05",
+       "end": "2026-10-11",
+       "value": 48,
+       "unit": "%"
+      },
+      {
+       "period": "Octobre 12-18, 2026",
+       "start": "2026-10-12",
+       "end": "2026-10-18",
+       "value": 49,
+       "unit": "%"
+      },
+      {
+       "period": "Octobre 19-25, 2026",
+       "start": "2026-10-19",
+       "end": "2026-10-25",
+       "value": 49.75,
+       "unit": "%"
+      }
+     ]
+    },
+    {
+     "label": "Day Definite Intra-Europe",
+     "unit": "%",
+     "current": {
+      "period": "Octobre 12-18, 2026",
+      "start": "2026-10-12",
+      "end": "2026-10-18",
+      "value": 40.75,
+      "unit": "%"
+     },
+     "next": {
+      "period": "Octobre 19-25, 2026",
+      "start": "2026-10-19",
+      "end": "2026-10-25",
+      "value": 40.75,
+      "unit": "%"
+     },
+     "history": [
+      {
+       "period": "Septembre 21-27, 2026",
+       "start": "2026-09-21",
+       "end": "2026-09-27",
+       "value": 37,
+       "unit": "%"
+      },
+      {
+       "period": "Septembre 28-Octobre 4, 2026",
+       "start": "2026-09-28",
+       "end": "2026-10-04",
+       "value": 38.25,
+       "unit": "%"
+      },
+      {
+       "period": "Octobre 5-11, 2026",
+       "start": "2026-10-05",
+       "end": "2026-10-11",
+       "value": 40,
+       "unit": "%"
+      },
+      {
+       "period": "Octobre 12-18, 2026",
+       "start": "2026-10-12",
+       "end": "2026-10-18",
+       "value": 40.75,
+       "unit": "%"
+      },
+      {
+       "period": "Octobre 19-25, 2026",
+       "start": "2026-10-19",
+       "end": "2026-10-25",
+       "value": 40.75,
+       "unit": "%"
+      }
+     ]
+    }
+   ],
+   "info": null,
+   "error": null,
+   "duration_s": 7.5,
+   "scraped_at": "2026-10-14T18:23:54"
+  },
+  {
+   "id": "fedex",
+   "name": "FedEx",
+   "kind": "express",
+   "freq": "hebdo / mensuel",
+   "url": "https://www.fedex.com/fr-fr/shipping/surcharges.html",
+   "ok": true,
+   "series": [
+    {
+     "label": "International Express",
+     "unit": "%",
+     "current": {
+      "period": "12 octobre, 2026 - 18 octobre, 2026",
+      "start": "2026-10-12",
+      "end": "2026-10-18",
+      "value": 51.75,
+      "unit": "%"
+     },
+     "next": null,
+     "history": [
+      {
+       "period": "20 juillet, 2026 - 26 juillet, 2026",
+       "start": "2026-07-20",
+       "end": "2026-07-26",
+       "value": 39.75,
+       "unit": "%"
+      },
+      {
+       "period": "27 juillet, 2026 - 02 août, 2026",
+       "start": "2026-07-27",
+       "end": "2026-08-02",
+       "value": 44,
+       "unit": "%"
+      },
+      {
+       "period": "03 août, 2026 - 09 août, 2026",
+       "start": "2026-08-03",
+       "end": "2026-08-09",
+       "value": 45.5,
+       "unit": "%"
+      },
+      {
+       "period": "10 août, 2026 - 16 août, 2026",
+       "start": "2026-08-10",
+       "end": "2026-08-16",
+       "value": 46,
+       "unit": "%"
+      },
+      {
+       "period": "17 août, 2026 - 23 août, 2026",
+       "start": "2026-08-17",
+       "end": "2026-08-23",
+       "value": 43.5,
+       "unit": "%"
+      },
+      {
+       "period": "24 août, 2026 - 30 août, 2026",
+       "start": "2026-08-24",
+       "end": "2026-08-30",
+       "value": 46.5,
+       "unit": "%"
+      },
+      {
+       "period": "31 août, 2026 - 06 septembre, 2026",
+       "start": "2026-08-31",
+       "end": "2026-09-06",
+       "value": 47.75,
+       "unit": "%"
+      },
+      {
+       "period": "07 septembre, 2026 - 13 septembre, 2026",
+       "start": "2026-09-07",
+       "end": "2026-09-13",
+       "value": 46,
+       "unit": "%"
+      },
+      {
+       "period": "14 septembre, 2026 - 20 septembre, 2026",
+       "start": "2026-09-14",
+       "end": "2026-09-20",
+       "value": 49,
+       "unit": "%"
+      },
+      {
+       "period": "21 septembre, 2026 - 27 septembre, 2026",
+       "start": "2026-09-21",
+       "end": "2026-09-27",
+       "value": 51.75,
+       "unit": "%"
+      },
+      {
+       "period": "28 septembre, 2026 - 04 octobre, 2026",
+       "start": "2026-09-28",
+       "end": "2026-10-04",
+       "value": 53.25,
+       "unit": "%"
+      },
+      {
+       "period": "05 octobre, 2026 - 11 octobre, 2026",
+       "start": "2026-10-05",
+       "end": "2026-10-11",
+       "value": 51.25,
+       "unit": "%"
+      },
+      {
+       "period": "12 octobre, 2026 - 18 octobre, 2026",
+       "start": "2026-10-12",
+       "end": "2026-10-18",
+       "value": 51.75,
+       "unit": "%"
+      }
+     ]
+    },
+    {
+     "label": "Regional Economy (Europe)",
+     "unit": "%",
+     "current": {
+      "period": "12 octobre 2026 - 18 octobre 2026",
+      "start": "2026-10-12",
+      "end": "2026-10-18",
+      "value": 33,
+      "unit": "%"
+     },
+     "next": null,
+     "history": [
+      {
+       "period": "14 septembre 2026 - 20 septembre 2026",
+       "start": "2026-09-14",
+       "end": "2026-09-20",
+       "value": 30,
+       "unit": "%"
+      },
+      {
+       "period": "21 septembre 2026 - 27 septembre 2026",
+       "start": "2026-09-21",
+       "end": "2026-09-27",
+       "value": 31,
+       "unit": "%"
+      },
+      {
+       "period": "28 septembre 2026 - 4 octobre 2026",
+       "start": "2026-09-28",
+       "end": "2026-10-04",
+       "value": 31.5,
+       "unit": "%"
+      },
+      {
+       "period": "5 octobre 2026 - 11 octobre 2026",
+       "start": "2026-10-05",
+       "end": "2026-10-11",
+       "value": 34,
+       "unit": "%"
+      },
+      {
+       "period": "12 octobre 2026 - 18 octobre 2026",
+       "start": "2026-10-12",
+       "end": "2026-10-18",
+       "value": 33,
+       "unit": "%"
+      }
+     ]
+    },
+    {
+     "label": "National (France)",
+     "unit": "%",
+     "current": {
+      "period": "Octobre 2026",
+      "start": "2026-10-01",
+      "end": "2026-10-31",
+      "value": 24.35,
+      "unit": "%"
+     },
+     "next": null,
+     "history": [
+      {
+       "period": "Juin 2026",
+       "start": "2026-06-01",
+       "end": "2026-06-30",
+       "value": 24.65,
+       "unit": "%"
+      },
+      {
+       "period": "Juillet 2026",
+       "start": "2026-07-01",
+       "end": "2026-07-31",
+       "value": 23.45,
+       "unit": "%"
+      },
+      {
+       "period": "Août 2026",
+       "start": "2026-08-01",
+       "end": "2026-08-31",
+       "value": 22.4,
+       "unit": "%"
+      },
+      {
+       "period": "Septembre 2026",
+       "start": "2026-09-01",
+       "end": "2026-09-30",
+       "value": 23.15,
+       "unit": "%"
+      },
+      {
+       "period": "Octobre 2026",
+       "start": "2026-10-01",
+       "end": "2026-10-31",
+       "value": 24.35,
+       "unit": "%"
+      }
+     ]
+    },
+    {
+     "label": "Fret IXF / ATA",
+     "unit": "€/kg",
+     "current": {
+      "period": "5 octobre 2026 - 1 novembre 2026",
+      "start": "2026-10-05",
+      "end": "2026-11-01",
+      "value": 1,
+      "unit": "€/kg"
+     },
+     "next": null,
+     "history": [
+      {
+       "period": "1 juin 2026 - 5 juillet 2026",
+       "start": "2026-06-01",
+       "end": "2026-07-05",
+       "value": 1.05,
+       "unit": "€/kg"
+      },
+      {
+       "period": "6 juillet 2026 - 2 août 2026",
+       "start": "2026-07-06",
+       "end": "2026-08-02",
+       "value": 1.05,
+       "unit": "€/kg"
+      },
+      {
+       "period": "3 août 2026 - 6 septembre 2026",
+       "start": "2026-08-03",
+       "end": "2026-09-06",
+       "value": 1.05,
+       "unit": "€/kg"
+      },
+      {
+       "period": "7 septembre 2026 - 4 octobre 2026",
+       "start": "2026-09-07",
+       "end": "2026-10-04",
+       "value": 0.95,
+       "unit": "€/kg"
+      },
+      {
+       "period": "5 octobre 2026 - 1 novembre 2026",
+       "start": "2026-10-05",
+       "end": "2026-11-01",
+       "value": 1,
+       "unit": "€/kg"
+      }
+     ]
+    }
+   ],
+   "info": null,
+   "error": null,
+   "duration_s": 22.9,
+   "scraped_at": "2026-10-14T18:23:54"
+  },
+  {
+   "id": "ups",
+   "name": "UPS",
+   "kind": "express",
+   "freq": "hebdo",
+   "url": "https://www.ups.com/fr/fr/support/shipping-support/shipping-costs-rates/fuel-surcharges",
+   "ok": true,
+   "series": [
+    {
+     "label": "Standard",
+     "unit": "%",
+     "current": {
+      "period": "12/10/2026",
+      "start": "2026-10-12",
+      "end": "2026-10-18",
+      "value": 34,
+      "unit": "%"
+     },
+     "next": null,
+     "history": [
+      {
+       "period": "20/07/2026",
+       "start": "2026-07-20",
+       "end": "2026-07-26",
+       "value": 28,
+       "unit": "%"
+      },
+      {
+       "period": "27/07/2026",
+       "start": "2026-07-27",
+       "end": "2026-08-02",
+       "value": 29,
+       "unit": "%"
+      },
+      {
+       "period": "03/08/2026",
+       "start": "2026-08-03",
+       "end": "2026-08-09",
+       "value": 30.25,
+       "unit": "%"
+      },
+      {
+       "period": "10/08/2026",
+       "start": "2026-08-10",
+       "end": "2026-08-16",
+       "value": 31.25,
+       "unit": "%"
+      },
+      {
+       "period": "17/08/2026",
+       "start": "2026-08-17",
+       "end": "2026-08-23",
+       "value": 31.5,
+       "unit": "%"
+      },
+      {
+       "period": "24/08/2026",
+       "start": "2026-08-24",
+       "end": "2026-08-30",
+       "value": 31.25,
+       "unit": "%"
+      },
+      {
+       "period": "31/08/2026",
+       "start": "2026-08-31",
+       "end": "2026-09-06",
+       "value": 31.75,
+       "unit": "%"
+      },
+      {
+       "period": "07/09/2026",
+       "start": "2026-09-07",
+       "end": "2026-09-13",
+       "value": 32,
+       "unit": "%"
+      },
+      {
+       "period": "14/09/2026",
+       "start": "2026-09-14",
+       "end": "2026-09-20",
+       "value": 31.75,
+       "unit": "%"
+      },
+      {
+       "period": "21/09/2026",
+       "start": "2026-09-21",
+       "end": "2026-09-27",
+       "value": 32.25,
+       "unit": "%"
+      },
+      {
+       "period": "28/09/2026",
+       "start": "2026-09-28",
+       "end": "2026-10-04",
+       "value": 33,
+       "unit": "%"
+      },
+      {
+       "period": "05/10/2026",
+       "start": "2026-10-05",
+       "end": "2026-10-11",
+       "value": 34,
+       "unit": "%"
+      },
+      {
+       "period": "12/10/2026",
+       "start": "2026-10-12",
+       "end": "2026-10-18",
+       "value": 34,
+       "unit": "%"
+      }
+     ]
+    },
+    {
+     "label": "Express UE",
+     "unit": "%",
+     "current": {
+      "period": "12/10/2026",
+      "start": "2026-10-12",
+      "end": "2026-10-18",
+      "value": 54,
+      "unit": "%"
+     },
+     "next": null,
+     "history": [
+      {
+       "period": "20/07/2026",
+       "start": "2026-07-20",
+       "end": "2026-07-26",
+       "value": 41.75,
+       "unit": "%"
+      },
+      {
+       "period": "27/07/2026",
+       "start": "2026-07-27",
+       "end": "2026-08-02",
+       "value": 46.25,
+       "unit": "%"
+      },
+      {
+       "period": "03/08/2026",
+       "start": "2026-08-03",
+       "end": "2026-08-09",
+       "value": 47.75,
+       "unit": "%"
+      },
+      {
+       "period": "10/08/2026",
+       "start": "2026-08-10",
+       "end": "2026-08-16",
+       "value": 48.25,
+       "unit": "%"
+      },
+      {
+       "period": "17/08/2026",
+       "start": "2026-08-17",
+       "end": "2026-08-23",
+       "value": 45.75,
+       "unit": "%"
+      },
+      {
+       "period": "24/08/2026",
+       "start": "2026-08-24",
+       "end": "2026-08-30",
+       "value": 48.5,
+       "unit": "%"
+      },
+      {
+       "period": "31/08/2026",
+       "start": "2026-08-31",
+       "end": "2026-09-06",
+       "value": 49.75,
+       "unit": "%"
+      },
+      {
+       "period": "07/09/2026",
+       "start": "2026-09-07",
+       "end": "2026-09-13",
+       "value": 48,
+       "unit": "%"
+      },
+      {
+       "period": "14/09/2026",
+       "start": "2026-09-14",
+       "end": "2026-09-20",
+       "value": 51,
+       "unit": "%"
+      },
+      {
+       "period": "21/09/2026",
+       "start": "2026-09-21",
+       "end": "2026-09-27",
+       "value": 54,
+       "unit": "%"
+      },
+      {
+       "period": "28/09/2026",
+       "start": "2026-09-28",
+       "end": "2026-10-04",
+       "value": 55.25,
+       "unit": "%"
+      },
+      {
+       "period": "05/10/2026",
+       "start": "2026-10-05",
+       "end": "2026-10-11",
+       "value": 53.25,
+       "unit": "%"
+      },
+      {
+       "period": "12/10/2026",
+       "start": "2026-10-12",
+       "end": "2026-10-18",
+       "value": 54,
+       "unit": "%"
+      }
+     ]
+    },
+    {
+     "label": "Express & Expedited hors UE",
+     "unit": "%",
+     "current": {
+      "period": "12/10/2026",
+      "start": "2026-10-12",
+      "end": "2026-10-18",
+      "value": 54,
+      "unit": "%"
+     },
+     "next": null,
+     "history": [
+      {
+       "period": "20/07/2026",
+       "start": "2026-07-20",
+       "end": "2026-07-26",
+       "value": 41.75,
+       "unit": "%"
+      },
+      {
+       "period": "27/07/2026",
+       "start": "2026-07-27",
+       "end": "2026-08-02",
+       "value": 46.25,
+       "unit": "%"
+      },
+      {
+       "period": "03/08/2026",
+       "start": "2026-08-03",
+       "end": "2026-08-09",
+       "value": 47.75,
+       "unit": "%"
+      },
+      {
+       "period": "10/08/2026",
+       "start": "2026-08-10",
+       "end": "2026-08-16",
+       "value": 48.25,
+       "unit": "%"
+      },
+      {
+       "period": "17/08/2026",
+       "start": "2026-08-17",
+       "end": "2026-08-23",
+       "value": 45.75,
+       "unit": "%"
+      },
+      {
+       "period": "24/08/2026",
+       "start": "2026-08-24",
+       "end": "2026-08-30",
+       "value": 48.5,
+       "unit": "%"
+      },
+      {
+       "period": "31/08/2026",
+       "start": "2026-08-31",
+       "end": "2026-09-06",
+       "value": 49.75,
+       "unit": "%"
+      },
+      {
+       "period": "07/09/2026",
+       "start": "2026-09-07",
+       "end": "2026-09-13",
+       "value": 48,
+       "unit": "%"
+      },
+      {
+       "period": "14/09/2026",
+       "start": "2026-09-14",
+       "end": "2026-09-20",
+       "value": 51,
+       "unit": "%"
+      },
+      {
+       "period": "21/09/2026",
+       "start": "2026-09-21",
+       "end": "2026-09-27",
+       "value": 54,
+       "unit": "%"
+      },
+      {
+       "period": "28/09/2026",
+       "start": "2026-09-28",
+       "end": "2026-10-04",
+       "value": 55.25,
+       "unit": "%"
+      },
+      {
+       "period": "05/10/2026",
+       "start": "2026-10-05",
+       "end": "2026-10-11",
+       "value": 53.25,
+       "unit": "%"
+      },
+      {
+       "period": "12/10/2026",
+       "start": "2026-10-12",
+       "end": "2026-10-18",
+       "value": 54,
+       "unit": "%"
+      }
+     ]
+    }
+   ],
+   "info": null,
+   "error": null,
+   "duration_s": 21.1,
+   "scraped_at": "2026-10-14T18:23:54"
+  },
+  {
+   "id": "dpd",
+   "name": "DPD France",
+   "kind": "messagerie",
+   "freq": "mensuel",
+   "url": "https://www.dpd.com/fr/fr/fuel-surcharge/",
+   "ok": true,
+   "series": [
+    {
+     "label": "Routier (Classic, Predict, Relais)",
+     "unit": "%",
+     "current": {
+      "period": "octobre 2026",
+      "start": "2026-10-01",
+      "end": "2026-10-31",
+      "value": 25.56,
+      "unit": "%"
+     },
+     "next": null,
+     "history": [
+      {
+       "period": "octobre 2025",
+       "start": "2025-10-01",
+       "end": "2025-10-31",
+       "value": 13.64,
+       "unit": "%"
+      },
+      {
+       "period": "novembre 2025",
+       "start": "2025-11-01",
+       "end": "2025-11-30",
+       "value": 13.21,
+       "unit": "%"
+      },
+      {
+       "period": "décembre 2025",
+       "start": "2025-12-01",
+       "end": "2025-12-31",
+       "value": 14.95,
+       "unit": "%"
+      },
+      {
+       "period": "janvier 2026",
+       "start": "2026-01-01",
+       "end": "2026-01-31",
+       "value": 11.93,
+       "unit": "%"
+      },
+      {
+       "period": "février 2026",
+       "start": "2026-02-01",
+       "end": "2026-02-28",
+       "value": 13.68,
+       "unit": "%"
+      },
+      {
+       "period": "mars 2026",
+       "start": "2026-03-01",
+       "end": "2026-03-31",
+       "value": 13.85,
+       "unit": "%"
+      },
+      {
+       "period": "avril 2026",
+       "start": "2026-04-01",
+       "end": "2026-04-30",
+       "value": 21.18,
+       "unit": "%"
+      },
+      {
+       "period": "mai 2026",
+       "start": "2026-05-01",
+       "end": "2026-05-31",
+       "value": 23.34,
+       "unit": "%"
+      },
+      {
+       "period": "juin 2026",
+       "start": "2026-06-01",
+       "end": "2026-06-30",
+       "value": 21.33,
+       "unit": "%"
+      },
+      {
+       "period": "juillet 2026",
+       "start": "2026-07-01",
+       "end": "2026-07-31",
+       "value": 17.68,
+       "unit": "%"
+      },
+      {
+       "period": "août 2026",
+       "start": "2026-08-01",
+       "end": "2026-08-31",
+       "value": 20.5,
+       "unit": "%"
+      },
+      {
+       "period": "septembre 2026",
+       "start": "2026-09-01",
+       "end": "2026-09-30",
+       "value": 23.13,
+       "unit": "%"
+      },
+      {
+       "period": "octobre 2026",
+       "start": "2026-10-01",
+       "end": "2026-10-31",
+       "value": 25.56,
+       "unit": "%"
+      }
+     ]
+    },
+    {
+     "label": "Aérien (intercontinental)",
+     "unit": "%",
+     "current": {
+      "period": "octobre 2026",
+      "start": "2026-10-01",
+      "end": "2026-10-31",
+      "value": 47.75,
+      "unit": "%"
+     },
+     "next": null,
+     "history": [
+      {
+       "period": "octobre 2025",
+       "start": "2025-10-01",
+       "end": "2025-10-31",
+       "value": 28.25,
+       "unit": "%"
+      },
+      {
+       "period": "novembre 2025",
+       "start": "2025-11-01",
+       "end": "2025-11-30",
+       "value": 29.25,
+       "unit": "%"
+      },
+      {
+       "period": "décembre 2025",
+       "start": "2025-12-01",
+       "end": "2025-12-31",
+       "value": 29.75,
+       "unit": "%"
+      },
+      {
+       "period": "janvier 2026",
+       "start": "2026-01-01",
+       "end": "2026-01-31",
+       "value": 27.25,
+       "unit": "%"
+      },
+      {
+       "period": "février 2026",
+       "start": "2026-02-01",
+       "end": "2026-02-28",
+       "value": 28.25,
+       "unit": "%"
+      },
+      {
+       "period": "mars 2026",
+       "start": "2026-03-01",
+       "end": "2026-03-31",
+       "value": 29.75,
+       "unit": "%"
+      },
+      {
+       "period": "avril 2026",
+       "start": "2026-04-01",
+       "end": "2026-04-30",
+       "value": 41.75,
+       "unit": "%"
+      },
+      {
+       "period": "mai 2026",
+       "start": "2026-05-01",
+       "end": "2026-05-31",
+       "value": 43.75,
+       "unit": "%"
+      },
+      {
+       "period": "juin 2026",
+       "start": "2026-06-01",
+       "end": "2026-06-30",
+       "value": 43.75,
+       "unit": "%"
+      },
+      {
+       "period": "juillet 2026",
+       "start": "2026-07-01",
+       "end": "2026-07-31",
+       "value": 36.25,
+       "unit": "%"
+      },
+      {
+       "period": "août 2026",
+       "start": "2026-08-01",
+       "end": "2026-08-31",
+       "value": 39.25,
+       "unit": "%"
+      },
+      {
+       "period": "septembre 2026",
+       "start": "2026-09-01",
+       "end": "2026-09-30",
+       "value": 42.25,
+       "unit": "%"
+      },
+      {
+       "period": "octobre 2026",
+       "start": "2026-10-01",
+       "end": "2026-10-31",
+       "value": 47.75,
+       "unit": "%"
+      }
+     ]
+    }
+   ],
+   "info": null,
+   "error": null,
+   "duration_s": 2.7,
+   "scraped_at": "2026-10-14T18:23:54"
+  },
+  {
+   "id": "chronopost",
+   "name": "Chronopost",
+   "kind": "messagerie",
+   "freq": "mensuel",
+   "url": "https://www.chronopost.fr/fr/surcharge-carburant",
+   "ok": true,
+   "series": [
+    {
+     "label": "Routier (national + Chrono Classic)",
+     "unit": "%",
+     "current": {
+      "period": "Octobre 2026",
+      "start": "2026-10-01",
+      "end": "2026-10-31",
+      "value": 24.2,
+      "unit": "%"
+     },
+     "next": null,
+     "history": [
+      {
+       "period": "Février 2026",
+       "start": "2026-02-01",
+       "end": "2026-02-28",
+       "value": 17.2,
+       "unit": "%"
+      },
+      {
+       "period": "Mars 2026",
+       "start": "2026-03-01",
+       "end": "2026-03-31",
+       "value": 17.55,
+       "unit": "%"
+      },
+      {
+       "period": "Avril 2026",
+       "start": "2026-04-01",
+       "end": "2026-04-30",
+       "value": 21.75,
+       "unit": "%"
+      },
+      {
+       "period": "Mai 2026",
+       "start": "2026-05-01",
+       "end": "2026-05-31",
+       "value": 23.15,
+       "unit": "%"
+      },
+      {
+       "period": "Juin 2026",
+       "start": "2026-06-01",
+       "end": "2026-06-30",
+       "value": 21.75,
+       "unit": "%"
+      },
+      {
+       "period": "Juillet 2026",
+       "start": "2026-07-01",
+       "end": "2026-07-31",
+       "value": 20.35,
+       "unit": "%"
+      },
+      {
+       "period": "Août 2026",
+       "start": "2026-08-01",
+       "end": "2026-08-31",
+       "value": 21.05,
+       "unit": "%"
+      },
+      {
+       "period": "Septembre 2026",
+       "start": "2026-09-01",
+       "end": "2026-09-30",
+       "value": 22.8,
+       "unit": "%"
+      },
+      {
+       "period": "Octobre 2026",
+       "start": "2026-10-01",
+       "end": "2026-10-31",
+       "value": 24.2,
+       "unit": "%"
+      }
+     ]
+    },
+    {
+     "label": "Aérien (international)",
+     "unit": "%",
+     "current": {
+      "period": "Octobre 2026",
+      "start": "2026-10-01",
+      "end": "2026-10-31",
+      "value": 47.75,
+      "unit": "%"
+     },
+     "next": null,
+     "history": [
+      {
+       "period": "Février 2026",
+       "start": "2026-02-01",
+       "end": "2026-02-28",
+       "value": 28.25,
+       "unit": "%"
+      },
+      {
+       "period": "Mars 2026",
+       "start": "2026-03-01",
+       "end": "2026-03-31",
+       "value": 29.75,
+       "unit": "%"
+      },
+      {
+       "period": "Avril 2026",
+       "start": "2026-04-01",
+       "end": "2026-04-30",
+       "value": 41.75,
+       "unit": "%"
+      },
+      {
+       "period": "Mai 2026",
+       "start": "2026-05-01",
+       "end": "2026-05-31",
+       "value": 43.75,
+       "unit": "%"
+      },
+      {
+       "period": "Juin 2026",
+       "start": "2026-06-01",
+       "end": "2026-06-30",
+       "value": 43.75,
+       "unit": "%"
+      },
+      {
+       "period": "Juillet 2026",
+       "start": "2026-07-01",
+       "end": "2026-07-31",
+       "value": 36.25,
+       "unit": "%"
+      },
+      {
+       "period": "Août 2026",
+       "start": "2026-08-01",
+       "end": "2026-08-31",
+       "value": 39.25,
+       "unit": "%"
+      },
+      {
+       "period": "Septembre 2026",
+       "start": "2026-09-01",
+       "end": "2026-09-30",
+       "value": 42.25,
+       "unit": "%"
+      },
+      {
+       "period": "Octobre 2026",
+       "start": "2026-10-01",
+       "end": "2026-10-31",
+       "value": 47.75,
+       "unit": "%"
+      }
+     ]
+    }
+   ],
+   "info": null,
+   "error": null,
+   "duration_s": 3.1,
+   "scraped_at": "2026-10-14T18:23:54"
+  },
+  {
+   "id": "gls",
+   "name": "GLS France",
+   "kind": "messagerie",
+   "freq": "mensuel",
+   "url": "https://gls-group.com/FR/en/newsroom/fuel-surcharge/",
+   "ok": true,
+   "series": [
+    {
+     "label": "Diesel surcharge (France)",
+     "unit": "%",
+     "current": {
+      "period": "October 2026",
+      "start": "2026-10-01",
+      "end": "2026-10-31",
+      "value": 32.1,
+      "unit": "%"
+     },
+     "next": null,
+     "history": [
+      {
+       "period": "October 2025",
+       "start": "2025-10-01",
+       "end": "2025-10-31",
+       "value": 21.09,
+       "unit": "%"
+      },
+      {
+       "period": "November 2025",
+       "start": "2025-11-01",
+       "end": "2025-11-30",
+       "value": 21.09,
+       "unit": "%"
+      },
+      {
+       "period": "December 2025",
+       "start": "2025-12-01",
+       "end": "2025-12-31",
+       "value": 21.09,
+       "unit": "%"
+      },
+      {
+       "period": "January 2026",
+       "start": "2026-01-01",
+       "end": "2026-01-31",
+       "value": 22.09,
+       "unit": "%"
+      },
+      {
+       "period": "February 2026",
+       "start": "2026-02-01",
+       "end": "2026-02-28",
+       "value": 22.59,
+       "unit": "%"
+      },
+      {
+       "period": "March 2026",
+       "start": "2026-03-01",
+       "end": "2026-03-31",
+       "value": 25.9,
+       "unit": "%"
+      },
+      {
+       "period": "April 2026",
+       "start": "2026-04-01",
+       "end": "2026-04-30",
+       "value": 28.8,
+       "unit": "%"
+      },
+      {
+       "period": "May 2026",
+       "start": "2026-05-01",
+       "end": "2026-05-31",
+       "value": 30.9,
+       "unit": "%"
+      },
+      {
+       "period": "June 2026",
+       "start": "2026-06-01",
+       "end": "2026-06-30",
+       "value": 29.1,
+       "unit": "%"
+      },
+      {
+       "period": "July 2026",
+       "start": "2026-07-01",
+       "end": "2026-07-31",
+       "value": 27.2,
+       "unit": "%"
+      },
+      {
+       "period": "August 2026",
+       "start": "2026-08-01",
+       "end": "2026-08-31",
+       "value": 28.4,
+       "unit": "%"
+      },
+      {
+       "period": "September 2026",
+       "start": "2026-09-01",
+       "end": "2026-09-30",
+       "value": 30.6,
+       "unit": "%"
+      },
+      {
+       "period": "October 2026",
+       "start": "2026-10-01",
+       "end": "2026-10-31",
+       "value": 32.1,
+       "unit": "%"
+      }
+     ]
+    }
+   ],
+   "info": null,
+   "error": null,
+   "duration_s": 2.4,
+   "scraped_at": "2026-10-14T18:23:54"
+  },
+  {
+   "id": "geodis",
+   "name": "GEODIS",
+   "kind": "messagerie",
+   "freq": "mensuel",
+   "url": "https://geodis.com/fr/transport-de-marchandises/transport-de-colis-et-de-palettes/taux-de-surcharge-energie",
+   "ok": true,
+   "series": [
+    {
+     "label": "Taux général (messagerie & express)",
+     "unit": "%",
+     "current": {
+      "period": "Octobre 2026",
+      "start": "2026-10-01",
+      "end": "2026-10-31",
+      "value": 21.35,
+      "unit": "%"
+     },
+     "next": null,
+     "history": [
+      {
+       "period": "Septembre 2026",
+       "start": "2026-09-01",
+       "end": "2026-09-30",
+       "value": 18.02,
+       "unit": "%"
+      },
+      {
+       "period": "Octobre 2026",
+       "start": "2026-10-01",
+       "end": "2026-10-31",
+       "value": 21.35,
+       "unit": "%"
+      }
+     ]
+    },
+    {
+     "label": "Affrètement",
+     "unit": "%",
+     "current": {
+      "period": "Octobre 2026",
+      "start": "2026-10-01",
+      "end": "2026-10-31",
+      "value": 21.49,
+      "unit": "%"
+     },
+     "next": null,
+     "history": [
+      {
+       "period": "Octobre 2026",
+       "start": "2026-10-01",
+       "end": "2026-10-31",
+       "value": 21.49,
+       "unit": "%"
+      }
+     ]
+    }
+   ],
+   "info": null,
+   "error": null,
+   "duration_s": 2.5,
+   "scraped_at": "2026-10-14T18:23:54"
+  },
+  {
+   "id": "colissimo",
+   "name": "Colissimo",
+   "kind": "messagerie",
+   "freq": "mensuel",
+   "url": "https://www.colissimo.entreprise.laposte.fr/offres-et-services/tarifs-generaux/supplements-tarifaires-colissimo",
+   "ok": true,
+   "series": [
+    {
+     "label": "CAE routier",
+     "unit": "%",
+     "current": {
+      "period": "Octobre 2026",
+      "start": "2026-10-01",
+      "end": "2026-10-31",
+      "value": 15.2,
+      "unit": "%"
+     },
+     "next": {
+      "period": "Novembre 2026",
+      "start": "2026-11-01",
+      "end": "2026-11-30",
+      "value": 15.96,
+      "unit": "%"
+     },
+     "history": [
+      {
+       "period": "Juin 2026",
+       "start": "2026-06-01",
+       "end": "2026-06-30",
+       "value": 14.29,
+       "unit": "%"
+      },
+      {
+       "period": "Juillet 2026",
+       "start": "2026-07-01",
+       "end": "2026-07-31",
+       "value": 13.83,
+       "unit": "%"
+      },
+      {
+       "period": "Aout 2026",
+       "start": "2026-08-01",
+       "end": "2026-08-31",
+       "value": 13.19,
+       "unit": "%"
+      },
+      {
+       "period": "Septembre 2026",
+       "start": "2026-09-01",
+       "end": "2026-09-30",
+       "value": 14.02,
+       "unit": "%"
+      },
+      {
+       "period": "Octobre 2026",
+       "start": "2026-10-01",
+       "end": "2026-10-31",
+       "value": 15.2,
+       "unit": "%"
+      },
+      {
+       "period": "Novembre 2026",
+       "start": "2026-11-01",
+       "end": "2026-11-30",
+       "value": 15.96,
+       "unit": "%"
+      }
+     ]
+    },
+    {
+     "label": "CAE aérien",
+     "unit": "%",
+     "current": {
+      "period": "Octobre 2026",
+      "start": "2026-10-01",
+      "end": "2026-10-31",
+      "value": 15.5,
+      "unit": "%"
+     },
+     "next": {
+      "period": "Novembre 2026",
+      "start": "2026-11-01",
+      "end": "2026-11-30",
+      "value": 18.5,
+      "unit": "%"
+     },
+     "history": [
+      {
+       "period": "Juin 2026",
+       "start": "2026-06-01",
+       "end": "2026-06-30",
+       "value": 15.5,
+       "unit": "%"
+      },
+      {
+       "period": "Juillet 2026",
+       "start": "2026-07-01",
+       "end": "2026-07-31",
+       "value": 15.5,
+       "unit": "%"
+      },
+      {
+       "period": "Aout 2026",
+       "start": "2026-08-01",
+       "end": "2026-08-31",
+       "value": 11,
+       "unit": "%"
+      },
+      {
+       "period": "Septembre 2026",
+       "start": "2026-09-01",
+       "end": "2026-09-30",
+       "value": 13,
+       "unit": "%"
+      },
+      {
+       "period": "Octobre 2026",
+       "start": "2026-10-01",
+       "end": "2026-10-31",
+       "value": 15.5,
+       "unit": "%"
+      },
+      {
+       "period": "Novembre 2026",
+       "start": "2026-11-01",
+       "end": "2026-11-30",
+       "value": 18.5,
+       "unit": "%"
+      }
+     ]
+    }
+   ],
+   "info": null,
+   "error": null,
+   "duration_s": 4.9,
+   "scraped_at": "2026-10-14T18:23:54"
+  },
+  {
+   "id": "tnt",
+   "name": "TNT",
+   "kind": "express",
+   "freq": "hebdo / mensuel",
+   "url": "https://www.tnt.com/express/fr_fr/site/comment/facturation/comprendre-votre-facture/baremes-et-historiques.html#cms-dt-1=0",
+   "ok": true,
+   "series": [
+    {
+     "label": "International Express (tous services)",
+     "unit": "%",
+     "current": {
+      "period": "12 oct. 2026 - 18 oct. 2026",
+      "start": "2026-10-12",
+      "end": "2026-10-18",
+      "value": 51.75,
+      "unit": "%"
+     },
+     "next": null,
+     "history": [
+      {
+       "period": "20 juil. 2026 - 26 juil. 2026",
+       "start": "2026-07-20",
+       "end": "2026-07-26",
+       "value": 39.75,
+       "unit": "%"
+      },
+      {
+       "period": "27 juil. 2026 - 2 août 2026",
+       "start": "2026-07-27",
+       "end": "2026-08-02",
+       "value": 44,
+       "unit": "%"
+      },
+      {
+       "period": "3 août 2026 - 9 août 2026",
+       "start": "2026-08-03",
+       "end": "2026-08-09",
+       "value": 45.5,
+       "unit": "%"
+      },
+      {
+       "period": "10 août 2026 - 16 août 2026",
+       "start": "2026-08-10",
+       "end": "2026-08-16",
+       "value": 46,
+       "unit": "%"
+      },
+      {
+       "period": "17 août 2026 - 23 août 2026",
+       "start": "2026-08-17",
+       "end": "2026-08-23",
+       "value": 43.5,
+       "unit": "%"
+      },
+      {
+       "period": "24 août 2026 - 30 août 2026",
+       "start": "2026-08-24",
+       "end": "2026-08-30",
+       "value": 46.5,
+       "unit": "%"
+      },
+      {
+       "period": "31 août 2026 - 6 sept. 2026",
+       "start": "2026-08-31",
+       "end": "2026-09-06",
+       "value": 47.75,
+       "unit": "%"
+      },
+      {
+       "period": "7 sept. 2026 - 13 sept. 2026",
+       "start": "2026-09-07",
+       "end": "2026-09-13",
+       "value": 46,
+       "unit": "%"
+      },
+      {
+       "period": "14 sept. 2026 - 20 sept. 2026",
+       "start": "2026-09-14",
+       "end": "2026-09-20",
+       "value": 49,
+       "unit": "%"
+      },
+      {
+       "period": "21 sept. 2026 - 27 sept. 2026",
+       "start": "2026-09-21",
+       "end": "2026-09-27",
+       "value": 51.75,
+       "unit": "%"
+      },
+      {
+       "period": "28 sept. 2026 - 4 oct. 2026",
+       "start": "2026-09-28",
+       "end": "2026-10-04",
+       "value": 53.25,
+       "unit": "%"
+      },
+      {
+       "period": "5 oct. 2026 - 11 oct. 2026",
+       "start": "2026-10-05",
+       "end": "2026-10-11",
+       "value": 51.25,
+       "unit": "%"
+      },
+      {
+       "period": "12 oct. 2026 - 18 oct. 2026",
+       "start": "2026-10-12",
+       "end": "2026-10-18",
+       "value": 51.75,
+       "unit": "%"
+      }
+     ]
+    },
+    {
+     "label": "National (France)",
+     "unit": "%",
+     "current": {
+      "period": "Octobre 2026",
+      "start": "2026-10-01",
+      "end": "2026-10-31",
+      "value": 24.35,
+      "unit": "%"
+     },
+     "next": null,
+     "history": [
+      {
+       "period": "Août 2026",
+       "start": "2026-08-01",
+       "end": "2026-08-31",
+       "value": 22.4,
+       "unit": "%"
+      },
+      {
+       "period": "Septembre 2026",
+       "start": "2026-09-01",
+       "end": "2026-09-30",
+       "value": 23.15,
+       "unit": "%"
+      },
+      {
+       "period": "Octobre 2026",
+       "start": "2026-10-01",
+       "end": "2026-10-31",
+       "value": 24.35,
+       "unit": "%"
+      }
+     ]
+    }
+   ],
+   "info": null,
+   "error": null,
+   "duration_s": 3.4,
+   "scraped_at": "2026-10-14T18:23:54"
+  },
+  {
+   "id": "colisprive",
+   "name": "Colis Privé",
+   "kind": "messagerie",
+   "freq": "mensuel",
+   "url": "https://colisprive.fr/tgo/",
+   "ok": true,
+   "series": [
+    {
+     "label": "CAP routier",
+     "unit": "%",
+     "current": {
+      "period": "octobre 2026",
+      "start": "2026-10-01",
+      "end": "2026-10-31",
+      "value": 11.9,
+      "unit": "%"
+     },
+     "next": {
+      "period": "novembre 2026",
+      "start": "2026-11-01",
+      "end": "2026-11-30",
+      "value": 12.95,
+      "unit": "%"
+     },
+     "history": [
+      {
+       "period": "décembre 2025",
+       "start": "2025-12-01",
+       "end": "2025-12-31",
+       "value": 3.75,
+       "unit": "%"
+      },
+      {
+       "period": "janvier 2026",
+       "start": "2026-01-01",
+       "end": "2026-01-31",
+       "value": 4.25,
+       "unit": "%"
+      },
+      {
+       "period": "février 2026",
+       "start": "2026-02-01",
+       "end": "2026-02-28",
+       "value": 3.75,
+       "unit": "%"
+      },
+      {
+       "period": "mars 2026",
+       "start": "2026-03-01",
+       "end": "2026-03-31",
+       "value": 4,
+       "unit": "%"
+      },
+      {
+       "period": "avril 2026",
+       "start": "2026-04-01",
+       "end": "2026-04-30",
+       "value": 6.65,
+       "unit": "%"
+      },
+      {
+       "period": "mai 2026",
+       "start": "2026-05-01",
+       "end": "2026-05-31",
+       "value": 10.5,
+       "unit": "%"
+      },
+      {
+       "period": "juin 2026",
+       "start": "2026-06-01",
+       "end": "2026-06-30",
+       "value": 11.9,
+       "unit": "%"
+      },
+      {
+       "period": "juillet 2026",
+       "start": "2026-07-01",
+       "end": "2026-07-31",
+       "value": 10.5,
+       "unit": "%"
+      },
+      {
+       "period": "août 2026",
+       "start": "2026-08-01",
+       "end": "2026-08-31",
+       "value": 9.1,
+       "unit": "%"
+      },
+      {
+       "period": "septembre 2026",
+       "start": "2026-09-01",
+       "end": "2026-09-30",
+       "value": 10.15,
+       "unit": "%"
+      },
+      {
+       "period": "octobre 2026",
+       "start": "2026-10-01",
+       "end": "2026-10-31",
+       "value": 11.9,
+       "unit": "%"
+      },
+      {
+       "period": "novembre 2026",
+       "start": "2026-11-01",
+       "end": "2026-11-30",
+       "value": 12.95,
+       "unit": "%"
+      }
+     ]
+    }
+   ],
+   "info": {
+    "note": "Barème du mois M = indice CNR de M-2"
+   },
+   "error": null,
+   "duration_s": 2.5,
+   "scraped_at": "2026-10-14T18:23:54"
+  },
+  {
+   "id": "dsv",
+   "name": "DSV XPress",
+   "kind": "express",
+   "freq": "hebdo",
+   "url": "https://www.dsv.com/fr-fr/nos-solutions/modes-de-transport/envois-xpress/surcharge-carburant-et-zone-eloignees",
+   "ok": true,
+   "series": [
+    {
+     "label": "DSV XPress",
+     "unit": "%",
+     "current": {
+      "period": "12.10.2026 - 18.10.2026",
+      "start": "2026-10-12",
+      "end": "2026-10-18",
+      "value": 53.5,
+      "unit": "%"
+     },
+     "next": null,
+     "history": [
+      {
+       "period": "01.03.2026 - 31.03.2026",
+       "start": "2026-03-01",
+       "end": "2026-03-31",
+       "value": 34,
+       "unit": "%"
+      },
+      {
+       "period": "01.04.2026 - 26.04.2026",
+       "start": "2026-04-01",
+       "end": "2026-04-26",
+       "value": 45,
+       "unit": "%"
+      },
+      {
+       "period": "27.04.2026 - 03.05.2026",
+       "start": "2026-04-27",
+       "end": "2026-05-03",
+       "value": 48,
+       "unit": "%"
+      },
+      {
+       "period": "11.05.2026 - 17.05.2026",
+       "start": "2026-05-11",
+       "end": "2026-05-17",
+       "value": 49.75,
+       "unit": "%"
+      },
+      {
+       "period": "18.05.2026 - 24.05.2026",
+       "start": "2026-05-18",
+       "end": "2026-05-24",
+       "value": 49.75,
+       "unit": "%"
+      },
+      {
+       "period": "25.05.2026 - 31.05.2026",
+       "start": "2026-05-25",
+       "end": "2026-05-31",
+       "value": 50.75,
+       "unit": "%"
+      },
+      {
+       "period": "01.06.2026 - 07.06.2026",
+       "start": "2026-06-01",
+       "end": "2026-06-07",
+       "value": 50.75,
+       "unit": "%"
+      },
+      {
+       "period": "08.06.2026 - 14.06.2026",
+       "start": "2026-06-08",
+       "end": "2026-06-14",
+       "value": 44.5,
+       "unit": "%"
+      },
+      {
+       "period": "15.06.2026 - 21.06.2026",
+       "start": "2026-06-15",
+       "end": "2026-06-21",
+       "value": 45.25,
+       "unit": "%"
+      },
+      {
+       "period": "22.06.2026 - 28.06.2026",
+       "start": "2026-06-22",
+       "end": "2026-06-28",
+       "value": 44.5,
+       "unit": "%"
+      },
+      {
+       "period": "29.06.2026 - 05.07.2026",
+       "start": "2026-06-29",
+       "end": "2026-07-05",
+       "value": 41.5,
+       "unit": "%"
+      },
+      {
+       "period": "06.07.2026 - 12.07.2026",
+       "start": "2026-07-06",
+       "end": "2026-07-12",
+       "value": 40.5,
+       "unit": "%"
+      },
+      {
+       "period": "13.07.2026 - 19.07.2026",
+       "start": "2026-07-13",
+       "end": "2026-07-19",
+       "value": 40.5,
+       "unit": "%"
+      },
+      {
+       "period": "20.07.2026 - 26.07.2026",
+       "start": "2026-07-20",
+       "end": "2026-07-26",
+       "value": 41.25,
+       "unit": "%"
+      },
+      {
+       "period": "27.07.2026 - 02.08.2026",
+       "start": "2026-07-27",
+       "end": "2026-08-02",
+       "value": 45.5,
+       "unit": "%"
+      },
+      {
+       "period": "03.08.2026 - 09.08.2026",
+       "start": "2026-08-03",
+       "end": "2026-08-09",
+       "value": 47.5,
+       "unit": "%"
+      },
+      {
+       "period": "10.08.2026 - 16.08.2026",
+       "start": "2026-08-10",
+       "end": "2026-08-16",
+       "value": 48,
+       "unit": "%"
+      },
+      {
+       "period": "17.08.2026 - 23.08.2026",
+       "start": "2026-08-17",
+       "end": "2026-08-23",
+       "value": 45.5,
+       "unit": "%"
+      },
+      {
+       "period": "24.08.2026 - 30.08.2026",
+       "start": "2026-08-24",
+       "end": "2026-08-30",
+       "value": 48.25,
+       "unit": "%"
+      },
+      {
+       "period": "31.08.2026 - 06.09.2026",
+       "start": "2026-08-31",
+       "end": "2026-09-06",
+       "value": 49.5,
+       "unit": "%"
+      },
+      {
+       "period": "07.09.2026 - 13.09.2026",
+       "start": "2026-09-07",
+       "end": "2026-09-13",
+       "value": 48,
+       "unit": "%"
+      },
+      {
+       "period": "14.09.2026 - 20.09.2026",
+       "start": "2026-09-14",
+       "end": "2026-09-20",
+       "value": 50.5,
+       "unit": "%"
+      },
+      {
+       "period": "21.09.2026 - 27.09.2026",
+       "start": "2026-09-21",
+       "end": "2026-09-27",
+       "value": 53.25,
+       "unit": "%"
+      },
+      {
+       "period": "28.09.2026 - 04.10.2026",
+       "start": "2026-09-28",
+       "end": "2026-10-04",
+       "value": 54.5,
+       "unit": "%"
+      },
+      {
+       "period": "05.10.2026 - 11.10.2026",
+       "start": "2026-10-05",
+       "end": "2026-10-11",
+       "value": 53,
+       "unit": "%"
+      },
+      {
+       "period": "12.10.2026 - 18.10.2026",
+       "start": "2026-10-12",
+       "end": "2026-10-18",
+       "value": 53.5,
+       "unit": "%"
+      }
+     ]
+    },
+    {
+     "label": "DSV XPress Eco",
+     "unit": "%",
+     "current": {
+      "period": "12.10.2026 - 18.10.2026",
+      "start": "2026-10-12",
+      "end": "2026-10-18",
+      "value": 40.15,
+      "unit": "%"
+     },
+     "next": null,
+     "history": [
+      {
+       "period": "01.03.2026 - 31.03.2026",
+       "start": "2026-03-01",
+       "end": "2026-03-31",
+       "value": 25.5,
+       "unit": "%"
+      },
+      {
+       "period": "01.04.2026 - 26.04.2026",
+       "start": "2026-04-01",
+       "end": "2026-04-26",
+       "value": 33.75,
+       "unit": "%"
+      },
+      {
+       "period": "27.04.2026 - 03.05.2026",
+       "start": "2026-04-27",
+       "end": "2026-05-03",
+       "value": 36,
+       "unit": "%"
+      },
+      {
+       "period": "11.05.2026 - 17.05.2026",
+       "start": "2026-05-11",
+       "end": "2026-05-17",
+       "value": 37.3,
+       "unit": "%"
+      },
+      {
+       "period": "18.05.2026 - 24.05.2026",
+       "start": "2026-05-18",
+       "end": "2026-05-24",
+       "value": 37.3,
+       "unit": "%"
+      },
+      {
+       "period": "25.05.2026 - 31.05.2026",
+       "start": "2026-05-25",
+       "end": "2026-05-31",
+       "value": 38,
+       "unit": "%"
+      },
+      {
+       "period": "01.06.2026 - 07.06.2026",
+       "start": "2026-06-01",
+       "end": "2026-06-07",
+       "value": 38,
+       "unit": "%"
+      },
+      {
+       "period": "08.06.2026 - 14.06.2026",
+       "start": "2026-06-08",
+       "end": "2026-06-14",
+       "value": 33.4,
+       "unit": "%"
+      },
+      {
+       "period": "15.06.2026 - 21.06.2026",
+       "start": "2026-06-15",
+       "end": "2026-06-21",
+       "value": 33.95,
+       "unit": "%"
+      },
+      {
+       "period": "22.06.2026 - 28.06.2026",
+       "start": "2026-06-22",
+       "end": "2026-06-28",
+       "value": 33.4,
+       "unit": "%"
+      },
+      {
+       "period": "29.06.2026 - 05.07.2026",
+       "start": "2026-06-29",
+       "end": "2026-07-05",
+       "value": 31.13,
+       "unit": "%"
+      },
+      {
+       "period": "06.07.2026 - 12.07.2026",
+       "start": "2026-07-06",
+       "end": "2026-07-12",
+       "value": 30.38,
+       "unit": "%"
+      },
+      {
+       "period": "13.07.2026 - 19.07.2026",
+       "start": "2026-07-13",
+       "end": "2026-07-19",
+       "value": 30.38,
+       "unit": "%"
+      },
+      {
+       "period": "20.07.2026 - 26.07.2026",
+       "start": "2026-07-20",
+       "end": "2026-07-26",
+       "value": 30.95,
+       "unit": "%"
+      },
+      {
+       "period": "27.07.2026 - 02.08.2026",
+       "start": "2026-07-27",
+       "end": "2026-08-02",
+       "value": 34.15,
+       "unit": "%"
+      },
+      {
+       "period": "03.08.2026 - 09.08.2026",
+       "start": "2026-08-03",
+       "end": "2026-08-09",
+       "value": 35.63,
+       "unit": "%"
+      },
+      {
+       "period": "10.08.2026 - 16.08.2026",
+       "start": "2026-08-10",
+       "end": "2026-08-16",
+       "value": 36,
+       "unit": "%"
+      },
+      {
+       "period": "17.08.2026 - 23.08.2026",
+       "start": "2026-08-17",
+       "end": "2026-08-23",
+       "value": 34.15,
+       "unit": "%"
+      },
+      {
+       "period": "24.08.2026 - 30.08.2026",
+       "start": "2026-08-24",
+       "end": "2026-08-30",
+       "value": 36.2,
+       "unit": "%"
+      },
+      {
+       "period": "31.08.2026 - 06.09.2026",
+       "start": "2026-08-31",
+       "end": "2026-09-06",
+       "value": 37.15,
+       "unit": "%"
+      },
+      {
+       "period": "07.09.2026 - 13.09.2026",
+       "start": "2026-09-07",
+       "end": "2026-09-13",
+       "value": 36,
+       "unit": "%"
+      },
+      {
+       "period": "21.09.2026 - 27.09.2026",
+       "start": "2026-09-21",
+       "end": "2026-09-27",
+       "value": 39.95,
+       "unit": "%"
+      },
+      {
+       "period": "28.09.2026 - 04.10.2026",
+       "start": "2026-09-28",
+       "end": "2026-10-04",
+       "value": 40.9,
+       "unit": "%"
+      },
+      {
+       "period": "05.10.2026 - 11.10.2026",
+       "start": "2026-10-05",
+       "end": "2026-10-11",
+       "value": 39.75,
+       "unit": "%"
+      },
+      {
+       "period": "12.10.2026 - 18.10.2026",
+       "start": "2026-10-12",
+       "end": "2026-10-18",
+       "value": 40.15,
+       "unit": "%"
+      }
+     ]
+    }
+   ],
+   "info": null,
+   "error": null,
+   "duration_s": 3.3,
+   "scraped_at": "2026-10-14T18:23:54"
+  },
+  {
+   "id": "martelet",
+   "name": "Régis Martelet",
+   "kind": "messagerie",
+   "freq": "mensuel",
+   "url": "https://www.martelet.fr/espace-clients/taxe-gasoil.php",
+   "ok": true,
+   "series": [
+    {
+     "label": "Surcharge gasoil",
+     "unit": "%",
+     "current": {
+      "period": "Octobre 2026",
+      "start": "2026-10-01",
+      "end": "2026-10-31",
+      "value": 21.52,
+      "unit": "%"
+     },
+     "next": null,
+     "history": [
+      {
+       "period": "Octobre 2026",
+       "start": "2026-10-01",
+       "end": "2026-10-31",
+       "value": 21.52,
+       "unit": "%"
+      }
+     ]
+    }
+   ],
+   "info": {
+    "history_xlsx": "https://www.martelet.fr/documents/Historique-Surcharge-Gasoil.xlsx"
+   },
+   "error": null,
+   "duration_s": 2.1,
+   "scraped_at": "2026-10-14T18:23:54"
+  }
+ ]
+}

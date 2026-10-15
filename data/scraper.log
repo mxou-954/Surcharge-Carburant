@@ -1,0 +1,15 @@
+18:23:31 Navigateur : msedge
+18:23:38 dhl         OK    7.5s Time Definite (national & international)=49% | Day Definite Intra-Europe=40.75%
+18:23:41 brent       OK   10.0s Brent ($/baril)=106.3$ | Brent (€/baril)=95.64€ | WTI ($/baril)=95.39$
+18:23:41 dpd         OK    2.7s Routier (Classic, Predict, Relais)=25.56% | Aérien (intercontinental)=47.75%
+18:23:43 gls         OK    2.4s Diesel surcharge (France)=32.1%
+18:23:44 chronopost  OK    3.1s Routier (national + Chrono Classic)=24.2% | Aérien (international)=47.75%
+18:23:46 geodis      OK    2.5s Taux général (messagerie & express)=21.35% | Affrètement=21.49%
+18:23:49 colissimo   OK    4.9s CAE routier=15.2% | CAE aérien=15.5%
+18:23:49 tnt         OK    3.4s International Express (tous services)=51.75% | National (France)=24.35%
+18:23:51 colisprive  OK    2.5s CAP routier=11.9%
+18:23:52 ups         OK   21.1s Standard=34% | Express UE=54% | Express & Expedited hors UE=54%
+18:23:53 dsv         OK    3.3s DSV XPress=53.5% | DSV XPress Eco=40.15%
+18:23:53 martelet    OK    2.1s Surcharge gasoil=21.52%
+18:23:54 fedex       OK   22.9s International Express=51.75% | Regional Economy (Europe)=33% | National (France)=24.35% | Fret IXF / ATA=1€/kg
+18:23:54 Terminé : 13/13 sources OK -> C:\Users\margaux\Desktop\surcharges-carburant\data\latest.json
